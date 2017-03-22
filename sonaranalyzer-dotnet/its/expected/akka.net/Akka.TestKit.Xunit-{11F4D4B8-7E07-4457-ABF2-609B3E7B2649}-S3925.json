@@ -1,0 +1,28 @@
+{
+"issues":  [
+{
+"id":  "S3925",
+"message":  "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+"location":  [
+{
+"uri":  "akka.net\src\contrib\testkits\Akka.TestKit.Xunit\Internals\AkkaEqualException.cs",
+"region":  {
+"startLine":  14,
+"startColumn":  18,
+"endLine":  14,
+"endColumn":  36
+}
+},
+{
+"uri":  "akka.net\src\contrib\testkits\Akka.TestKit.Xunit\Internals\AkkaEqualException.cs",
+"region":  {
+"startLine":  14,
+"startColumn":  12,
+"endLine":  14,
+"endColumn":  17
+}
+}
+]
+}
+]
+}

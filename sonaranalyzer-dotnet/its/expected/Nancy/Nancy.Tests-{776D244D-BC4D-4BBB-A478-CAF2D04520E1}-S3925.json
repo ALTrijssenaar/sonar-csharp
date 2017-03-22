@@ -1,0 +1,79 @@
+{
+"issues":  [
+{
+"id":  "S3925",
+"message":  "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+"location":  [
+{
+"uri":  "Nancy\src\Nancy.Tests\Fakes\FakeRouteCache.cs",
+"region":  {
+"startLine":  9,
+"startColumn":  18,
+"endLine":  9,
+"endColumn":  32
+}
+},
+{
+"uri":  "Nancy\src\Nancy.Tests\Fakes\FakeRouteCache.cs",
+"region":  {
+"startLine":  9,
+"startColumn":  12,
+"endLine":  9,
+"endColumn":  17
+}
+},
+{
+"uri":  "Nancy\src\Nancy.Tests\Fakes\FakeRouteCache.cs",
+"region":  {
+"startLine":  9,
+"startColumn":  12,
+"endLine":  9,
+"endColumn":  17
+}
+},
+{
+"uri":  "Nancy\src\Nancy.Tests\Fakes\FakeRouteCache.cs",
+"region":  {
+"startLine":  9,
+"startColumn":  12,
+"endLine":  9,
+"endColumn":  17
+}
+}
+]
+},
+{
+"id":  "S3925",
+"message":  "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+"location":  [
+{
+"uri":  "Nancy\src\Nancy.Tests\xUnitExtensions\SkipException.cs",
+"region":  {
+"startLine":  5,
+"startColumn":  18,
+"endLine":  5,
+"endColumn":  31
+}
+},
+{
+"uri":  "Nancy\src\Nancy.Tests\xUnitExtensions\SkipException.cs",
+"region":  {
+"startLine":  5,
+"startColumn":  12,
+"endLine":  5,
+"endColumn":  17
+}
+},
+{
+"uri":  "Nancy\src\Nancy.Tests\xUnitExtensions\SkipException.cs",
+"region":  {
+"startLine":  5,
+"startColumn":  12,
+"endLine":  5,
+"endColumn":  17
+}
+}
+]
+}
+]
+}
